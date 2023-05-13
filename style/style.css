@@ -1,0 +1,15 @@
+body{
+    max-width: 500px;
+    margin: 0px auto;
+}
+header, main , footer {
+    border: 1px solid black;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+#to-do-list{
+    padding: 30px;
+}
+.to-do-section{
+    padding: 30px;
+}
